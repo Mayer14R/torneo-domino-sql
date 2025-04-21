@@ -39,16 +39,3 @@ El sistema se compone de las siguientes entidades principales:
 Se incluyen relaciones, restricciones y consultas optimizadas para garantizar integridad y rendimiento.
 
 ---
-
-## 📸 Evidencias
-
-Las evidencias del funcionamiento de cada módulo (tablas, vistas, SPs, funciones) se incluyen en el informe principal como capturas de pantalla.
-
----
-
-## 📄 Autor
-
-- **Nombre:** [Tu nombre completo]  
-- **Matrícula:** [Tu matrícula]  
-- **Institución:** [Nombre de tu universidad]  
-- **Fecha:** Abril de 2025
